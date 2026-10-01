@@ -1,0 +1,38 @@
+1.push
+2.pop
+3.display
+4.exit
+enter choice:1
+enter value:23
+
+1.push
+2.pop
+3.display
+4.exit
+enter choice:1
+enter value:34
+
+1.push
+2.pop
+3.display
+4.exit
+enter choice:1
+enter value:45
+
+1.push
+2.pop
+3.display
+4.exit
+enter choice:2
+deleted:45
+1.push
+2.pop
+3.display
+4.exit
+enter choice:3
+453423
+1.push
+2.pop
+3.display
+4.exit
+enter choice:4
