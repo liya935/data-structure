@@ -1,0 +1,51 @@
+enter choice:1
+enter value:23
+
+1.enqueue
+
+2.dequeue
+
+3.display
+
+4.exit
+enter choice:1
+enter value:34
+
+1.enqueue
+
+2.dequeue
+
+3.display
+
+4.exit
+enter choice:1
+enter value:56
+
+1.enqueue
+
+2.dequeue
+
+3.display
+
+4.exit
+enter choice:2
+deleted:23
+
+1.enqueue
+
+2.dequeue
+
+3.display
+
+4.exit
+enter choice:3
+queue is empty
+
+1.enqueue
+
+2.dequeue
+
+3.display
+
+4.exit
+enter choice:4
